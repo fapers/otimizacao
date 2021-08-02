@@ -1,0 +1,7 @@
+1) Entender o problema
+2) Fazer a modelagem matemática do problema
+3) Linguagem de programação
+4) Resolução do problema
+5) Apresentar resultados
+
+Solver vs Framework
